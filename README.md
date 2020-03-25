@@ -109,4 +109,4 @@ cd [TetraTSDF root]/visualize
 python TSDF2chamfer.py --TSDFdir_pred ../network/for_evaluation/TSDF_pred --TSDFdir_GT ../network/for_evaluation/TSDF_GT --paramdir_pred ../network/for_evaluation/params --paramdir_GT ../network/for_evaluation/params
 ```
 ## Issues
-Since our system has been trained on small dataset, the generalizability is very low. To have more generalizability, our system needs more dataset or it might be better to train on normalized input images (subtract backgrounds, input silhouettes or convert input images to texture maps by using DensePose).
+Since our system has been trained on small dataset, the generalizability is very low. To have more generalizability, our system needs more dataset.
