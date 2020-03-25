@@ -112,6 +112,7 @@ python TSDF2chamfer.py --TSDFdir_pred ../network/for_evaluation/TSDF_pred --TSDF
 ## Reference
 This work is to be used for educational and research purpose only. If you use part of this work, you are required to refer our paper:
 
+```
 @inproceedings{Onizuka2020,
   title={TetraTSDF: 3D human reconstruction from a single image with a tetrahedral outer shell},
   author={Onizuka, Hayato and Haiyrci, Zehra and Thomas, Diego and Sugimoto, Akihiro and Uchiyama, Hideaki and Taniguchi, Rin-Ichiro},
@@ -119,6 +120,7 @@ This work is to be used for educational and research purpose only. If you use pa
   pages={--},
   year={2020}
 }
+```
 
 ## Issues
 Since our system has been trained on small dataset, the generalizability is very low. To have more generalizability, our system needs more dataset.
