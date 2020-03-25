@@ -1,0 +1,4 @@
+/D_bouncing/TSDF
+/D_march/TSDF
+/I_jumping/TSDF
+/I_crane/TSDF

@@ -1,0 +1,4 @@
+/D_bouncing/images/cropped_imgs
+/D_march/images/cropped_imgs
+/I_jumping/images/cropped_imgs
+/I_crane/images/cropped_imgs

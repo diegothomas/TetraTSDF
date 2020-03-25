@@ -1,0 +1,4 @@
+/D_bouncing/smplparams_centered
+/D_march/smplparams_centered
+/I_jumping/smplparams_centered
+/I_crane/smplparams_centered
