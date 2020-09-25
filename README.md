@@ -13,7 +13,7 @@ Dataset and mesh generation
 
 - binascii
 
-- pymesh
+- pymesh (https://pymesh.readthedocs.io/en/latest/installation.html#download-the-source)
 
 - pyflann
 
