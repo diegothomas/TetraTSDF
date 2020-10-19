@@ -35,6 +35,7 @@ Evaluation
 
 Model data
 - Download data for coarse models at:  https://archive.iii.kyushu-u.ac.jp/public/ljLUAANJM8BACNsBxqd16-g-mb1eC1VTBZXKTCR30CvL
+- Pretrained (on ARTICULATED) model is available at: https://archive.iii.kyushu-u.ac.jp/public/4j1EAAUJ6YBAuSYB2bZ15AE_hUMJnm0thlds6huPCsI5
 
 ## Dataset generation
 
