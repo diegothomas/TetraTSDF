@@ -34,7 +34,7 @@ Evaluation
 - Open3D
 
 Model data
-- Download data for coarse models at:  https://share.iii.kyushu-u.ac.jp/public/BjacAAFJMEBAn5ABw4pxEgkQPbwJ7AdH-EaZcj3gzj-7
+- Download data for coarse models at:  https://archive.iii.kyushu-u.ac.jp/public/ljLUAANJM8BACNsBxqd16-g-mb1eC1VTBZXKTCR30CvL
 
 ## Dataset generation
 
